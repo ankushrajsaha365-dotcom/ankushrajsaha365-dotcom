@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ankush Raj Saha             
 
-<img align="right" src=https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnN6M3FnajdvMmw5MnN5enh2MjVzMHFza2I0N2d5ZmFpbHdrZmgxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qiru6DuC7tZuOgjtBF/giphy.gif width="300" height="300" />🚀
+<img align="right" src=https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnN6M3FnajdvMmw5MnN5enh2MjVzMHFza2I0N2d5ZmFpbHdrZmgxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qiru6DuC7tZuOgjtBF/giphy.gif width="250" height="250" />
 
 
 ### A coding enthusiast 
@@ -15,12 +15,17 @@
 
 - 📫 How to reach me **ankushrajsaha365@gmail.com**
 
-- ⚡ Fun fact **You have to do it yourself**
+- ⚡ Fun fact **My code runs on coffee , curiosity and some music**
 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ankushrajsaha365-dotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ankushrajsaha365-dotcom" height="30" width="40" /></a>
 </p>
+
+<img align="right" src=https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWphNnhyM3E0MnZlbmNwNmhxdHEzeWs3c3VucWRjNHU2bHF5cTVmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ukjnhr5x23D42mMCRl/giphy.gif width="250" height="250" />
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
