@@ -5,7 +5,6 @@
 
 ### A coding enthusiast 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushrajsaha365-dotcom&label=Profile views&color=0e75b6&style=flat" alt="ankushrajsaha365-dotcom" /> </p>
 
 
 
