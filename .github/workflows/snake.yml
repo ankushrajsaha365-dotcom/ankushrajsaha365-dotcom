@@ -20,7 +20,9 @@ jobs:
 
       - name: Create index file
         run: |
-          echo '<img src="github-contribution-grid-snake.svg">' > dist/index.html
+          mkdir -p public
+          cp dist/github-contribution-grid-snake.svg public/
+          echo '<img src="github-contribution-grid-snake.svg">' > public/index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
