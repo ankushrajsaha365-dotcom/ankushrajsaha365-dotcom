@@ -1,20 +1,29 @@
-# Hi 👋, I'm Ankush Raj Saha             
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+  
+# Hi 👋, I'm Ankush Raj Saha  
+### A coding enthusiast  
 
-<img align="right" src=https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnN6M3FnajdvMmw5MnN5enh2MjVzMHFza2I0N2d5ZmFpbHdrZmgxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qiru6DuC7tZuOgjtBF/giphy.gif width="250" height="250" />
+  </div>
+
+  <div style="width: 40px;"></div>
+<img align="right" 
+     src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnN6M3FnajdvMmw5MnN5enh2MjVzMHFza2I0N2d5ZmFpbHdrZmgxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qiru6DuC7tZuOgjtBF/giphy.gif" 
+     width="250" 
+     height="250"
+     style="margin-left: 40px;" />
 
 
-### A coding enthusiast 
+</div>
 
 
-
-
-- 🔭 I'm currently working on **my coding skills**
+- 🔭 I'm currently working on **my coding skills on C and Python**
 
 - 🌱 I'm currently learning **C++ and Java**
 
 - 📫 How to reach me **ankushrajsaha365@gmail.com**
 
-- ⚡ Fun fact **My code runs on coffee , curiosity and some music**
+- ⚡ Fun fact: **My code runs on coffee , curiosity and some music**
 
  
 <h3 align="left">Connect with me:</h3>
@@ -54,7 +63,6 @@
   </a>
 </p>
 
-![Snake animation](https://ankushrajsaha365-dotcom.github.io/github-contribution-grid-snake.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushrajsaha365-dotcom&" alt="ankushrajsaha365-dotcom" /></p>
 
