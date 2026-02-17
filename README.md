@@ -1,21 +1,8 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
   
-# Hi 👋, I'm Ankush Raj Saha  
-### A coding enthusiast  
-
-  </div>
-
-  <div style="width: 40px;"></div>
-<img align="right" 
-     src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnN6M3FnajdvMmw5MnN5enh2MjVzMHFza2I0N2d5ZmFpbHdrZmgxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qiru6DuC7tZuOgjtBF/giphy.gif" 
-     width="250" 
-     height="250"
-     style="margin-left: 40px;" />
-
-
-</div>
-
+# Hi 👋, I'm Ankush Raj Saha 
+### A coding enthusiast  <img align="center" src=https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnN6M3FnajdvMmw5MnN5enh2MjVzMHFza2I0N2d5ZmFpbHdrZmgxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qiru6DuC7tZuOgjtBF/giphy.gif width="150" height="150" />
 
 - 🔭 I'm currently working on **my coding skills on C and Python**
 
